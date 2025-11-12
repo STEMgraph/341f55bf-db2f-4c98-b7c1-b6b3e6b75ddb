@@ -1,6 +1,7 @@
 <!---
 {
   "id": "341f55bf-db2f-4c98-b7c1-b6b3e6b75ddb",
+  "teaches": "Using the Terminal-Emulator to Explore the *nix Filesystem",
   "depends_on": ["e46ffb8b-00d6-44a2-ad40-552ea03b4e3a"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-01",
